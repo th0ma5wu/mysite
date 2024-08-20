@@ -29,6 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
+# Add Django Project
 
 INSTALLED_APPS = [
     'django.contrib.admin',
